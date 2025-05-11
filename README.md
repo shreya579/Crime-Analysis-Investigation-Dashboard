@@ -122,7 +122,7 @@ Interactive tooltips include Total Crimes, % Solved, City, and Crime Type.
 ---
 
 ## Project Structure
-
+```
 crime-analysis-dashboard/
 │
 ├── data/
@@ -136,6 +136,7 @@ crime-analysis-dashboard/
 │
 ├── README.md                         # Project documentation
 
+```
 ---
 
 ## Contributions
