@@ -136,7 +136,6 @@ crime-analysis-dashboard/
 │
 ├── README.md                         # Project documentation
 
-
 ---
 
 ## Contributions
